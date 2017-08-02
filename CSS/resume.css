@@ -1,0 +1,54 @@
+*{margin: 0;padding: 0;list-style: none;}
+#wrap{
+	width: 100%;
+}
+.title{
+	width: 1100px;
+	height: 100px;
+	margin: 0 auto;
+}
+#content{
+	height: 70px;
+	line-height: 70px;
+	text-align: center;
+	font-size: 50px;
+	color: #261388;
+	padding-top: 15px;
+}
+.con{
+	width: 1100px;
+	height: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.left{
+	float: left;
+	width: 250px;
+	background: #9466c3;
+}
+.right{
+	float: right;
+	width: 850px;
+	background: #c2eadc;
+}
+.name span{
+	font-size: 20px;
+	color: #fff;
+}
+.intention{
+	width: 800px;
+	height: 100px;
+	background: #fff;
+	margin: 10px auto;
+	overflow: hidden;
+}
+.intention p{
+	float: left;
+	width: 400px;
+	height: 90px;
+	margin-top: 10px;
+}
+.intention span{
+	color: red;
+	font-size: 20px;
+}
